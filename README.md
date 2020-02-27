@@ -1,4 +1,5 @@
-# seating-arrangement## Run Code
+# seating-arrangement
+## Run Code
 	1. Store all .py files and .txt required for execution and testing in one directory. (Python 3.6 and higher required )
 	2. Go to that directory in cmd prompt.
 	3. On cmd, give two arguments, one main file and second test file for executing the code.
